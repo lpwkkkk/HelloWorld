@@ -1,0 +1,4 @@
+2  xiaoxia  1
+3  xiaogang  3
+25  xiaomi  1
+87  xiaozhi  2
